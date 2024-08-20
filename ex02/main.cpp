@@ -6,12 +6,13 @@
 /*   By: anurtiag <anurtiag@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/20 11:06:01 by anurtiag          #+#    #+#             */
-/*   Updated: 2024/08/20 12:09:55 by anurtiag         ###   ########.fr       */
+/*   Updated: 2024/08/20 14:55:19 by anurtiag         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <iostream>
 #include "Templates.hpp"
+#include "Array.hpp"
 
 int main( void )
 {
