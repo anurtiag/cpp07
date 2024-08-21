@@ -6,14 +6,14 @@
 #    By: anurtiag <anurtiag@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/08/20 11:11:39 by anurtiag          #+#    #+#              #
-#    Updated: 2024/08/20 11:12:19 by anurtiag         ###   ########.fr        #
+#    Updated: 2024/08/21 06:51:33 by anurtiag         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME			=	phonebook
 
 
-SRCS			=	main.cpp
+SRCS			=	main.cpp Array.cpp
 
 
 OBJ				=	$(SRCS:.cpp=.o)
